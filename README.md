@@ -151,7 +151,7 @@
  https://dxawi.github.io/0/0.json	# dxawi
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
- https://9877.kstore.space/AnotherD/api.json		# 潇洒接口
+ https://9877.kstore.space/ONE/one.json		# 潇洒接口
  https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json	# 香雅情
  https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
